@@ -8,7 +8,7 @@
 4- if the .com is available then print name to the screen 
 5- let the user decide wherther to continue or to open up the site by using command-based interface menu.py 
 
-Installation
+<h2> Installation </h2>
 
 pip install selenium <br /> 
 pip install ebird-api
