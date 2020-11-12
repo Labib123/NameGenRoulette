@@ -1,6 +1,6 @@
-NameGenRoulette is a program that gereates names for startup and cross-check if the domian name exists and show the user a name with available domain name 
+<b>NameGenRoulette </b> is a program that gereates names for startup and cross-check if the domian name exists and show the user a name with available domain name 
 
-How it works! 
+<h1> How it works!<h1/> 
 
 1- Using ebird.api as a wordlist to find the potential startup name. Can use other api though   
 2- open up godaddy.com using selenium webdriver  
@@ -10,5 +10,5 @@ How it works!
 
 Installation
 
-pip install selenium
+pip install selenium <br /> 
 pip install ebird-api
