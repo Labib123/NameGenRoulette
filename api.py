@@ -2,7 +2,7 @@ from ebird.api import get_taxonomy, get_taxonomy_forms,get_taxonomy_versions
 import random
 
 def get_bird_names():
-	taxonomy = get_taxonomy('b9qdfsk18e6l')
+	taxonomy = get_taxonomy('api-key')
 	prev_name = ''
 	bird_list = []
 
